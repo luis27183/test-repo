@@ -1,4 +1,3 @@
 # test-repo
 
-
-This is from my local computer. 
+this is a second example
