@@ -1,3 +1,3 @@
-# test-repo
+# My first repo 
 
-this is a second example
+Kalob is an awesome teacher!!
